@@ -1,4 +1,4 @@
-# Project-SCRUM-Methodology
+# Project-SCRUM-Agile-Methodology
 
 Project description:
 [SCRUM project description.pdf](https://github.com/sneha0909/Project-SCRUM-Methodology/files/10717589/SCRUM.project.description.pdf)
